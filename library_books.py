@@ -14,7 +14,7 @@ library_books = [
         "author": "Harper Lee",
         "genre": "Historical",
         "available": False,
-        "due_date": "2025-11-01",
+        "due_date": "2025-10-01",
         "checkouts": 5
     },
     {
